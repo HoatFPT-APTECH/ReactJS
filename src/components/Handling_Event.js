@@ -55,7 +55,7 @@ class Handling_Event extends Component{
                     <hr></hr>
                     <h6 onMouseOver={()=>this.mouseOver()}>Di chuột vào đây nè người anh em ak!</h6>
                     <p>
-                        mouseOver:{this.state.mouseOver} hello
+                        mouseOver:{this.state.mouseOver}
                     </p>
                 </div>
             </div>
