@@ -4,7 +4,10 @@ import React from 'react';
 // import State from "./components/State";
 // import Props_Validation from "./components/Props_Validation";
 // import Component_API from "./components/Component_API";
-import Handling_Event from "./components/Handling_Event";
+// import Handling_Event from "./components/Handling_Event";
+// import Xu_Ly_form from "./components/Xu_Ly_form";
+// import Render_with_condition from "./components/Render_with_condition";
+import Key from "./components/Key";
 function App(){
   return(
       <div>
@@ -15,7 +18,10 @@ function App(){
         {/*<State/>*/}
         {/*  <Props_Validation/>*/}
         {/*  <Component_API/>*/}
-          <Handling_Event/>
+        {/*  <Handling_Event/>*/}
+        {/*  <Xu_Ly_form/>*/}
+        {/*  <Render_with_condition/>*/}
+          <Key/>
       </div>
   )
 }
