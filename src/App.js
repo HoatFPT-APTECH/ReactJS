@@ -7,7 +7,8 @@ import React from 'react';
 // import Handling_Event from "./components/Handling_Event";
 // import Xu_Ly_form from "./components/Xu_Ly_form";
 // import Render_with_condition from "./components/Render_with_condition";
-import Key from "./components/Key";
+// import Key from "./components/Key";
+import Lifing_State_Up_Parent from "./components/Lifing_State_Up_Parent";
 function App(){
   return(
       <div>
@@ -21,7 +22,8 @@ function App(){
         {/*  <Handling_Event/>*/}
         {/*  <Xu_Ly_form/>*/}
         {/*  <Render_with_condition/>*/}
-          <Key/>
+        {/*  <Key/>*/}
+          <Lifing_State_Up_Parent/>
       </div>
   )
 }
