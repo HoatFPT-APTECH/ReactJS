@@ -8,7 +8,8 @@ import React from 'react';
 // import Xu_Ly_form from "./components/Xu_Ly_form";
 // import Render_with_condition from "./components/Render_with_condition";
 // import Key from "./components/Key";
-import Lifing_State_Up_Parent from "./components/Lifing_State_Up_Parent";
+// import Lifing_State_Up_Parent from "./components/Lifing_State_Up_Parent";
+import React_Refs from "./components/React_Refs";
 function App(){
   return(
       <div>
@@ -23,7 +24,8 @@ function App(){
         {/*  <Xu_Ly_form/>*/}
         {/*  <Render_with_condition/>*/}
         {/*  <Key/>*/}
-          <Lifing_State_Up_Parent/>
+        {/*  <Lifing_State_Up_Parent/>*/}
+          <React_Refs/>
       </div>
   )
 }
