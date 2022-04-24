@@ -54,5 +54,5 @@ import ReactDOM from "react-dom";
              </div>
          )
      }
- }
+ };
  export default Component_API

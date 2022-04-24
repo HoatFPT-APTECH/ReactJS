@@ -9,7 +9,8 @@ import React from 'react';
 // import Render_with_condition from "./components/Render_with_condition";
 // import Key from "./components/Key";
 // import Lifing_State_Up_Parent from "./components/Lifing_State_Up_Parent";
-import React_Refs from "./components/React_Refs";
+// import React_Refs from "./components/React_Refs";
+import Context from "./components/Context";
 function App(){
   return(
       <div>
@@ -25,7 +26,8 @@ function App(){
         {/*  <Render_with_condition/>*/}
         {/*  <Key/>*/}
         {/*  <Lifing_State_Up_Parent/>*/}
-          <React_Refs/>
+        {/*  <React_Refs/>*/}
+          <Context/>
       </div>
   )
 }
