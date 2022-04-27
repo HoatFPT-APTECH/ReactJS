@@ -25,7 +25,6 @@ const withHoverOpacity=(QmageComponent)=>{
                     opacity:1
                 })
             }
-
             render() {
                 return(
                     <React.Fragment>
