@@ -10,7 +10,10 @@ import React from 'react';
 // import Key from "./components/Key";
 // import Lifing_State_Up_Parent from "./components/Lifing_State_Up_Parent";
 // import React_Refs from "./components/React_Refs";
-import Context from "./components/Context";
+// import Context from "./components/Context";
+// import Fragments from "./components/Fragments";
+// import Render_Props from "./components/Render_Props";
+import HoverComponent from "./components/HOC";
 function App(){
   return(
       <div>
@@ -27,7 +30,10 @@ function App(){
         {/*  <Key/>*/}
         {/*  <Lifing_State_Up_Parent/>*/}
         {/*  <React_Refs/>*/}
-          <Context/>
+        {/*  <Context/>*/}
+        {/*  <Fragments/>*/}
+        {/*  <Render_Props/>*/}
+          <HoverComponent/>
       </div>
   )
 }
